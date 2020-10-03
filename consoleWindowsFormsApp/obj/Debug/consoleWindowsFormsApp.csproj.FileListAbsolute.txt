@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\calculatorApp\consoleWindowsFormsApp\bin\Debug\consoleWindowsFormsApp.exe.config
+C:\Users\ACER\source\repos\calculatorApp\consoleWindowsFormsApp\bin\Debug\consoleWindowsFormsApp.exe
+C:\Users\ACER\source\repos\calculatorApp\consoleWindowsFormsApp\bin\Debug\consoleWindowsFormsApp.pdb
+C:\Users\ACER\source\repos\calculatorApp\consoleWindowsFormsApp\obj\Debug\consoleWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\calculatorApp\consoleWindowsFormsApp\obj\Debug\consoleWindowsFormsApp.Form1.resources
+C:\Users\ACER\source\repos\calculatorApp\consoleWindowsFormsApp\obj\Debug\consoleWindowsFormsApp.Properties.Resources.resources
+C:\Users\ACER\source\repos\calculatorApp\consoleWindowsFormsApp\obj\Debug\consoleWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\calculatorApp\consoleWindowsFormsApp\obj\Debug\consoleWindowsFormsApp.exe
+C:\Users\ACER\source\repos\calculatorApp\consoleWindowsFormsApp\obj\Debug\consoleWindowsFormsApp.pdb

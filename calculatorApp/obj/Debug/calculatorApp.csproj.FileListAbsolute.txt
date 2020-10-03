@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\calculatorApp\calculatorApp\bin\Debug\calculatorApp.exe.config
+C:\Users\ACER\source\repos\calculatorApp\calculatorApp\bin\Debug\calculatorApp.exe
+C:\Users\ACER\source\repos\calculatorApp\calculatorApp\bin\Debug\calculatorApp.pdb
+C:\Users\ACER\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.exe
+C:\Users\ACER\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.pdb
